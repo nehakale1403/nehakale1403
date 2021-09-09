@@ -1,4 +1,4 @@
-# [Hello Developers, I'm Neha Kale](https://github.com/nehakale1403) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [Hello Developers, I'm Neha Kale] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👨‍🎓I am Neha Kale, currently embarking on my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune. <br />
 💻I am a **Competitive Coder** as well as a **Data** enthusiast.<br />
