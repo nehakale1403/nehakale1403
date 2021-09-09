@@ -28,7 +28,7 @@
 <code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
 
 </p>
-
+|---|---|
 
 |<img src="https://github-readme-stats.vercel.app/api?username=nehakale1403&&show_icons=true&title_color=ff930a&icon_color=ff930a&text_color=000&bg_color=#fff" alt="my github stats" width="420"> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehakale1403"/>|
 |---|---|
