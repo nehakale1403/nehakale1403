@@ -48,11 +48,11 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 
 <a href="https://www.codechef.com/users/nehakale1403" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://leetcode.com/nehakale1403/" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=devto style="margin-bottom: 5px;" />
 </a>
 
 </div>
