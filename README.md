@@ -13,8 +13,8 @@
 ## My kinda tech:
 
 <p align="center">
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
 <code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
 <code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
 <code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
@@ -28,7 +28,6 @@
 <code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
 
 </p>
-|---|---|
 
 |<img src="https://github-readme-stats.vercel.app/api?username=nehakale1403&&show_icons=true&title_color=ff930a&icon_color=ff930a&text_color=000&bg_color=#fff" alt="my github stats" width="420"> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehakale1403"/>|
 |---|---|
