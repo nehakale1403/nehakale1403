@@ -15,17 +15,17 @@
 <p align="center">
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg"></code>
-<code><img width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
 
 </p>
 
