@@ -2,7 +2,7 @@
 
 👨‍🎓I am Neha Kale, currently embarking on my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune. <br />
 💻I am a **Competitive Coder** as well as a **Data** enthusiast.<br />
-🏆🥇I am **2-star⭐️** coder at Codechef.<br />
+🏆🥇I am **3-star⭐️** coder at Codechef.<br />
 📝✏️I am currently learning **Machine Learning**, **Website Development** and **Android Development** <br />
 
 [![Badge](https://cp-logo.vercel.app/codechef/nehakale1403)](https://www.codechef.com/users/nehakale1403)
